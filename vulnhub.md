@@ -1,6 +1,6 @@
 ---
 link: https://blog.csdn.net/horizon_rain/article/details/155097615
-title: Vulnhub靶机----- 64Base: 1.0.1-----WriteUp
+title: Vulnhub靶机----- 64Base:1.0.1-----WriteUp
 description: 文章浏览阅读821次，点赞13次，收藏17次。这个靶机难度还是适中的，关键是要紧扣主题base64编码方式。打靶流程也较为规范，对我这种初学者还有帮助较大。靶机中权限的设置较为有趣。_vulnhub 64base
 keywords: linux,新人首发,安全
 author: Horizon_rain 博客等级 码龄2年
